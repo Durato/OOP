@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author piva.5936
  */
-public class exercicio4 {
+public class Exercicio4 {
      public static void main(String[] args) {
          int numeroum = 0, numerodois = 0, numerotres = 0, soma = 0, media = 0;
     

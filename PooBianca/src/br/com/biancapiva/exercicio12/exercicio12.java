@@ -5,7 +5,7 @@ import br.com.biancapiva.exericicio11.Aluno;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class exercicio12 {
+public class Exercicio12 {
     public static void main(String[] args) {
         String nomes = "";
         Pessoa[] pessoas = new Pessoa[10];

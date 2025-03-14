@@ -2,7 +2,7 @@ package br.com.biancapiva.exercicio18;
 
 import java.util.Scanner;
 
-public class exercicio18 {
+public class Exercicio18 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Escreva uma palavra: ");

@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author piva.5936
  */
-public class exercicio6 {
+public class Exercicio6 {
       public static void main(String[] args) {
         
         System.out.println("Escreva um dia da semana");

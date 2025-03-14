@@ -2,7 +2,7 @@ package br.com.biancapiva.exercicio16;
 
 import java.util.Scanner;
 
-public class exercicio16 {
+public class Exercicio16 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

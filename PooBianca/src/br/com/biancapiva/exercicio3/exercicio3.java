@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author piva.5936
  */
-public class exercicio3 {
+public class Exercicio3 {
     public static void main(String[] args) {
     int numeroum = 0;
     

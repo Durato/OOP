@@ -2,7 +2,7 @@ package br.com.biancapiva.exercicio14;
 
 import java.util.Scanner;
 
-public class exercicio14 {
+public class Exercicio14 {
     public static void main(String[] args) {
         int randomico = 0, radomicodois = 51;
 

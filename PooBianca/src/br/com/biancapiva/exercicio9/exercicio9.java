@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author piva.5936
  */
-public class exercicio9 {
+public class Exercicio9 {
       public static void main(String[] args) {
         int fatorial = 1;
         System.out.println("Escreva um numero natural");
