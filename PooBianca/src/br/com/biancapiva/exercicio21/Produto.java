@@ -1,4 +1,4 @@
-package br.com.biancapiva.Exercicio21;
+package br.com.biancapiva.exercicio21;
 
 public class Produto {
     String nome;
